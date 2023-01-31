@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhlokhandwala" alt="bhlokhandwala" /></a> </p>
 
-- 💬 Ask me about **All about Javascript**
+- 💬 Ask me **All about Javascript**
 
 - 📫 How to reach me **bh.lokhandwala@gmail.com**
 
